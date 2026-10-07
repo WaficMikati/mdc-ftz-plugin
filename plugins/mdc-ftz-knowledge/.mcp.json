@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "mdc-ftz": {
+    "Miami Dade FTZ Knowledge Base": {
       "type": "http",
       "url": "https://mdc-ftz.4geeks.workers.dev/mcp"
     }
