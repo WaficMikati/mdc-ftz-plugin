@@ -4,7 +4,7 @@ Answers questions about U.S. Foreign-Trade Zones from Miami Dade College's FTZ S
 
 ## Contents
 
-- `skills/ftz-knowledge-base`: how Claude uses the knowledge base (search first, cite every claim, no rules or rates from memory)
+- `skills/ftz-knowledge-base`: when to use the knowledge base and how to answer from it (search first, cite every claim, nothing from memory)
 - `.mcp.json`: the FTZ connector (`https://mdc-ftz.4geeks.workers.dev/mcp`)
 
 ## Set up
