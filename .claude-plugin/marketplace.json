@@ -1,0 +1,12 @@
+{
+  "name": "mdc-ftz",
+  "description": "Miami Dade College's Foreign-Trade Zone knowledge base for Claude",
+  "owner": { "name": "4Geeks Academy", "url": "https://4geeks.com" },
+  "plugins": [
+    {
+      "name": "mdc-ftz-knowledge",
+      "source": "./plugins/mdc-ftz-knowledge",
+      "description": "Answer Foreign-Trade Zone questions from the current FTZ regulations, the CBP FTZ Manual and Miami Dade College's FTZ Specialist Certificate courses, with exact citations."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mdc-ftz": {
+      "type": "http",
+      "url": "https://mdc-ftz.4geeks.workers.dev/mcp"
+    }
+  }
+}
