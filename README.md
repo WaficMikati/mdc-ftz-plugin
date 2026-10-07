@@ -5,7 +5,9 @@ A Claude plugin for Miami Dade College's FTZ Specialist Certificate program. It 
 - **The FTZ connector** (`https://mdc-ftz.4geeks.workers.dev/mcp`): the current FTZ regulations (19 CFR Part 146 and 15 CFR Part 400, refreshed daily from eCFR), the CBP Foreign-Trade Zones Manual, CBP forms and the program's course materials.
 - **A skill** that has Claude search the knowledge base and cite its sources whenever a question is about foreign-trade zones, even when the question doesn't mention the knowledge base.
 
-Plugins need a paid Claude plan (Pro, Max, Team or Enterprise). On the Free plan, add the connector on its own instead: https://mdc-ftz.4geeks.workers.dev/add
+Not offered to students yet: a marketplace you add yourself updates only when you select **Check for updates**, and every user needs the same version. Miami Dade College is still choosing how to distribute it; until then, students add the connector on its own.
+
+Plugins need a paid Claude plan (Pro, Max, Team or Enterprise). On the Free plan, add the connector on its own instead: https://mdc-ftz.4geeks.workers.dev/install
 
 ## Install
 
